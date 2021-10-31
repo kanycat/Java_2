@@ -14,7 +14,7 @@ public class Human implements Contest_member {
     }
 
     public String runStr () {
-        return name + " может пробежать " + maxLength + " км.";
+        return name + " может пробежать  " + maxLength + " км.";
     }
 
     public String jumpStr () {
